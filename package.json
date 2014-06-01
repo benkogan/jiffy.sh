@@ -1,0 +1,9 @@
+{
+  "name": "jiffy.sh",
+  "version": "0.0.1",
+  "description": "Quickly JSON-ify text.",
+  "global": "false",
+  "install": "make install",
+  "scripts": [ "jiffy.sh" ]
+}
+
